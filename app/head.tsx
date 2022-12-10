@@ -11,7 +11,7 @@ export default function Head() {
 			<meta name='description' content='Vyrek dev portafolio!' />
 			<meta name='language' content='EN' />
 			<meta name='url' content='https://vyrek.dev' />
-			<meta http-equiv='Cache-Control' content='no-cache' />
+			<meta httpEquiv='Cache-Control' content='no-cache' />
 
 			<meta content={`Vyrek ${randomEmoji()}`} property='og:title' />
 			<meta content='Vyrek dev portafolio!' property='og:description' />
